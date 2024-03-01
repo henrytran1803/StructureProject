@@ -5,4 +5,4 @@ Thông tin kiến trúc của swiftui
 Cấu trúc cho một dự án ios tối ưu nhất
 https://levelup.gitconnected.com/the-best-way-to-struct-your-ios-project-a2daee7dcb45
 
-![Structure](StructureProject/Screenshot 2024-03-01 at 21.45.53.png)
+![Structure](https://github.com/henrytran1803/StructureProject/blob/main/Screenshot%202024-03-01%20at%2021.45.53.png)
